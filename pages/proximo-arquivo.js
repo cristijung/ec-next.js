@@ -9,9 +9,11 @@ export default function Home() {
     <Nav></Nav>
     Menu:
     <hr></hr>
-    Voltar a Home
+    <a href="/">Voltar a Home</a>
     <br/>
     <h1>Está no arquivo</h1>
+    <br/>
+    <a href="/proxima-imagem">Ir para Imagem</a>
     </>
   )
 }

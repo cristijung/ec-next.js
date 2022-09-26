@@ -11,7 +11,9 @@ export default function Home() {
     <hr></hr>
     <h1>Home</h1>
     <br/>
-    Próximo Arquivo
+    <a href="/proximo-arquivo">Próximo Arquivo</a>
+    <br/>
+    <a href="/proxima-imagem">Ir para Imagem</a>
     </>
   )
 }
