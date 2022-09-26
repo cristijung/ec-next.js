@@ -9,9 +9,9 @@ export default function Home() {
     <Nav></Nav>
     Menu:
     <hr></hr>
-    <h1>Home</h1>
+    Voltar a Home
     <br/>
-    Próximo Arquivo
+    <h1>Está no arquivo</h1>
     </>
   )
 }
